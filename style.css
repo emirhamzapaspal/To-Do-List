@@ -1,0 +1,16 @@
+#nameInput{
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+#enterName{
+    font-size: 2em;
+    margin: 10px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.divs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5em;
+}
